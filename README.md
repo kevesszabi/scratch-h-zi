@@ -1,1 +1,1 @@
-# scratch-h-zi
+Ez a scratch hazifeladat
